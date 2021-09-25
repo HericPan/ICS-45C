@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../app/DynamicTriple.hpp
+
+/home/ics45c/projects/ContractsAndExceptions/gtest/DynamicTripleTests.cpp
+stdexcept
+-
+string
+-
+gtest/gtest.h
+-
+DynamicTriple.hpp
+/home/ics45c/projects/ContractsAndExceptions/gtest/DynamicTriple.hpp
+

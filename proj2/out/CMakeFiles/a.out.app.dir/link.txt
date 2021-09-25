@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/a.out.app.dir/app/ArrayBuilder.cpp.o CMakeFiles/a.out.app.dir/app/GradeCalculator.cpp.o CMakeFiles/a.out.app.dir/app/Students.cpp.o CMakeFiles/a.out.app.dir/app/main.cpp.o CMakeFiles/a.out.app.dir/app/output.cpp.o  -o bin/a.out.app  -lpthread -lc++ 

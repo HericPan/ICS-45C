@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ics45c/projects/proj1/app/distance.hpp
+location.hpp
+/home/ics45c/projects/proj1/app/location.hpp
+
+/home/ics45c/projects/proj1/app/input.hpp
+string
+-
+location.hpp
+/home/ics45c/projects/proj1/app/location.hpp
+
+/home/ics45c/projects/proj1/app/location.hpp
+string
+-
+
+/home/ics45c/projects/proj1/app/main.cpp
+iostream
+-
+limits
+-
+input.hpp
+/home/ics45c/projects/proj1/app/input.hpp
+output.hpp
+/home/ics45c/projects/proj1/app/output.hpp
+location.hpp
+/home/ics45c/projects/proj1/app/location.hpp
+distance.hpp
+/home/ics45c/projects/proj1/app/distance.hpp
+
+/home/ics45c/projects/proj1/app/output.hpp
+string
+-
+location.hpp
+/home/ics45c/projects/proj1/app/location.hpp
+

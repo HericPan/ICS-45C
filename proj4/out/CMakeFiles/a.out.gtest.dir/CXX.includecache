@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ics45c/projects/proj4/app/EditorException.hpp
+string
+-
+
+/home/ics45c/projects/proj4/app/EditorModel.cpp
+iostream
+-
+EditorModel.hpp
+/home/ics45c/projects/proj4/app/EditorModel.hpp
+EditorException.hpp
+/home/ics45c/projects/proj4/app/EditorException.hpp
+
+/home/ics45c/projects/proj4/app/EditorModel.hpp
+string
+-
+vector
+-
+

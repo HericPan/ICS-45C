@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ics45c/projects/proj3/app/Controller.cpp
+iostream
+-
+sstream
+-
+Controller.hpp
+/home/ics45c/projects/proj3/app/Controller.hpp
+
+/home/ics45c/projects/proj3/app/Controller.hpp
+string
+-
+InterfaceView.hpp
+/home/ics45c/projects/proj3/app/InterfaceView.hpp
+HashMap.hpp
+/home/ics45c/projects/proj3/app/HashMap.hpp
+
+/home/ics45c/projects/proj3/app/HashMap.hpp
+functional
+-
+string
+-
+
+/home/ics45c/projects/proj3/app/InterfaceView.hpp
+string
+-
+

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ics45c/projects/proj2/app/Cutpoints.hpp
+
+/home/ics45c/projects/proj2/app/GradeCalculator.hpp
+string
+-
+Students.hpp
+/home/ics45c/projects/proj2/app/Students.hpp
+Cutpoints.hpp
+/home/ics45c/projects/proj2/app/Cutpoints.hpp
+
+/home/ics45c/projects/proj2/app/Students.hpp
+string
+-
+
+/home/ics45c/projects/proj2/app/output.cpp
+iostream
+-
+output.hpp
+/home/ics45c/projects/proj2/app/output.hpp
+GradeCalculator.hpp
+/home/ics45c/projects/proj2/app/GradeCalculator.hpp
+
+/home/ics45c/projects/proj2/app/output.hpp
+Students.hpp
+/home/ics45c/projects/proj2/app/Students.hpp
+Cutpoints.hpp
+/home/ics45c/projects/proj2/app/Cutpoints.hpp
+
